@@ -1,0 +1,85 @@
+project:
+  type: book
+
+book:
+  title: "National Biodiversity Assessment 2025"
+  subtitle: "The status of South Africa’s ecosystems and biodiversity"
+  author:
+    - name: "Andrew L. Skowno"
+      affiliation: "South African National Biodiversity Institute"
+    - name: "Carol J. Poole"
+      affiliation: "South African National Biodiversity Institute"
+    - name: "Domitilla C. Raimondo"
+      affiliation: "South African National Biodiversity Institute"
+    - name: "Kerry J. Sink"  
+      affiliation: "South African National Biodiversity Institute"
+    - name: "Lara van Niekerk"
+      affiliation: "Council for Scientific and Industrial Research" 
+    - name: "Linda R. Harris"  
+      affiliation: "Nelson Mandela University"
+    - name: "Krystal A. Tolley"  
+      affiliation: "South African National Biodiversity Institute"
+    - name: "Tsungai A. Zengeya"
+      affiliation: "South African National Biodiversity Institute"
+    
+  date: "2024/10/12"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    
+    - part: "About"
+      chapters: 
+        - Contents/0. About/1. About the NBA.qmd
+        - Contents/0. About/2. NBA use_consolidated.qmd
+        - Contents/0. About/3. Biodiversity profile.qmd
+        
+    - part: "Key messages"
+      chapters:
+        - Contents/1. Key messages/A - Biodiversity provides benefits to people.qmd
+        - Contents/1. Key messages/B - Biodiversity under pressure.qmd
+        - Contents/1. Key messages/C - NBA stimulates work to address knowledge gaps.qmd  
+        
+    - part: "Integrated findings"
+      chapters:
+        - Contents/2. Integrated findings/National indication_consolidated.qmd
+        - Contents/2. Integrated findings/Pressures_consolidated.qmd
+        
+    - part: "Findings by realm"
+      chapters:        
+        - Contents/3. Findings by realm/Terrestrial_consolidated.qmd
+        - Contents/3. Findings by realm/Freshwater_consolidated.qmd
+        - Contents/3. Findings by realm/Estuarine_consolidated.qmd
+        - Contents/3. Findings by realm/Marine_consolidated.qmd        
+        - Contents/3. Findings by realm/Coast_consolidated.qmd 
+       
+    - part: "Species"
+      chapters: 
+        - Contents/4. Species/Species_consolidated.qmd
+        
+    - part: "Priority actions and responses"
+      chapters:
+        - Contents/5. Priority actions and responses/Priority actions.qmd
+        - Contents/5. Priority actions and responses/Priority responses.qmd
+        
+        
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    css: styles.css 
+    theme: cosmo
+    grid:
+      sidebar-width: 300px
+      body-width: 1200px
+      margin-width: 350px  
+
+  pdf:
+    documentclass: scrreprt
+    pdf-engine: pdflatex
+
+
+editor: visual
+

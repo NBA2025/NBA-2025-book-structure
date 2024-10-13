@@ -1,0 +1,255 @@
+---
+title: "Terrestrial realm"
+sidebar: true
+---
+
+**Recommended citation:**
+
+------------------------------------------------------------------------
+
+## Overview
+
+add text
+
+## Input data and method for the terrestrial realm
+
+add text
+
+### Ecosystem assessments
+
+add text
+
+### Species assessments
+
+add text
+
+## Key drivers and pressures impacting terrestrial ecosystems
+
+add text
+
+### Habitat loss
+
+add text
+
+### Land degradation
+
+add text
+
+### Biological invasions
+
+add text
+
+### Climate change
+
+add text
+
+### Biological resource use
+
+add text
+
+## Terrestrial ecosystems
+
+### Map of ecosystem types
+
+add text
+
+### Overview of South African biomes
+
+add text
+
+#### Albany Thicket
+
+add text
+
+#### Azonal Vegetation
+
+add text
+
+#### Desert
+
+add text
+
+#### Forests
+
+add text
+
+#### Fynbos
+
+add text
+
+#### Grassland
+
+add text
+
+#### Indian Ocean Coastal Belt
+
+add text
+
+#### Nama-Karoo
+
+add text
+
+#### Savanna
+
+add text
+
+#### Succulent Karoo
+
+add text
+
+## Ecological condition
+
+## Overview
+
+add text
+
+### Ecological condition per realm
+
+add text
+
+#### Albany Thicket
+
+add text
+
+#### Azonal Vegetation
+
+add text
+
+#### Desert
+
+add text
+
+#### Forests
+
+add text
+
+#### Fynbos
+
+add text
+
+#### Grassland
+
+add text
+
+#### Indian Ocean Coastal Belt
+
+add text
+
+#### Nama-Karoo
+
+add text
+
+#### Savanna
+
+add text
+
+#### Succulent Karoo
+
+add text
+
+## Red List of Ecosystems
+
+add text
+
+### Red List of Ecosystems per biome
+
+add text
+
+#### Albany Thicket
+
+add text
+
+#### Azonal Vegetation
+
+add text
+
+#### Desert
+
+add text
+
+#### Forests
+
+add text
+
+#### Fynbos
+
+add text
+
+#### Grassland
+
+add text
+
+#### Indian Ocean Coastal Belt
+
+add text
+
+#### Nama-Karoo
+
+add text
+
+#### Savanna
+
+add text
+
+#### Succulent Karoo
+
+add text
+
+### Red List of Ecosystems - Prince Edward Island
+
+add text
+
+## Protection Level
+
+add text
+
+### Protection level per biome
+
+add text
+
+#### Albany Thicket
+
+add text
+
+#### Azonal Vegetation
+
+add text
+
+#### Desert
+
+add text
+
+#### Forests
+
+add text
+
+#### Fynbos
+
+add text
+
+#### Grassland
+
+add text
+
+#### Indian Ocean Coastal Belt
+
+add text
+
+#### Nama-Karoo
+
+add text
+
+#### Savanna
+
+add text
+
+#### Succulent Karoo
+
+add text
+
+## Terrestrial species
+
+### Utilized terrestrial species resource assessments
+
+add text
+

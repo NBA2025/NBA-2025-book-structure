@@ -1,0 +1,55 @@
+---
+title: "Estuarine realm"
+---
+
+**Recommended citation:**
+
+------------------------------------------------------------------------
+
+## Overview
+
+add text
+
+## Ecological condition
+
+add text
+
+### Condition
+
+add text
+
+### Pressures
+
+Estuary pressure information and condition dataset
+
+Estuarine Invasive Alien Aquatic Plants
+
+
+## Ecosystems
+
+### Habitats and vegetation
+
+add text
+
+#### Functional zone
+
+Estuary Functional Zone update
+
+KZN Estuary Functional Zone
+
+#### Classification updates
+
+DWS Great Fish to Tsitsikamma Classification
+
+## Red List of Ecosystems
+
+add text
+
+## Protection Level
+
+add text
+
+## Species
+
+add text
+

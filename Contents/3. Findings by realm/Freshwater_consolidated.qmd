@@ -1,0 +1,77 @@
+---
+title: "Freshwater realm"
+sidebar: true
+---
+
+**Recommended citation**:
+
+------------------------------------------------------------------------
+
+## Overview
+
+add text
+
+### Rivers
+
+Ecological condition of rivers
+
+### Wetlands
+
+Ecological condition of wetlands
+
+## Ecosystems
+
+add text
+
+### Rivers
+
+Map ecosystem types - rivers
+
+### Wetlands
+
+Map of ecosystem types - wetlands
+
+### Riparian
+
+Map of ecosystem types - riparian
+
+
+## Ecological condition
+
+add text
+
+### Rivers
+
+Ecological condition of rivers
+
+### Wetlands
+
+Ecological condition of wetlands
+
+## Red List of Ecosystems
+
+add text
+
+### Red List of Ecosystems - rivers
+
+add text
+
+### Red List of Ecosystems - wetlands
+
+add text
+
+## Protection level
+
+add text
+
+### Protection level of rivers
+
+add text
+
+### Protection level of wetlands
+
+add text
+
+## Species
+
+add
