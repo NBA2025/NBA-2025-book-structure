@@ -7,3 +7,29 @@ See @knuth84 for additional discussion of literate programming.
 ```{r}
 1 + 1
 ```
+
+
+![A beautiful image of a frog](images/Amphibians.JPG){#fig-amphibians fig-cap="A beautiful image of a frog" fig-pos="H"}
+
+In @fig-amphibians, you can see a frog.
+
+![A beautiful image of a bird](images/Birds.JPG){#fig-birds fig-cap="A beautiful image of a bird" fig-pos="H"}
+
+In @fig-birds, you can see a bird
+
+```{r}
+#| label: fig-scatter-plot
+#| fig-cap: "A scatter plot"
+#| fig-pos: "H"
+#| echo: false
+
+data("iris")
+
+library(ggplot2)
+
+ggplot(iris,
+       aes(x = Sepal.Length, y = Sepal.Width)) +
+  geom_point()
+```
+
+In @fig-scatter-plot you can see a scatter plot.

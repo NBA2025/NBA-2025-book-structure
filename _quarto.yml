@@ -79,7 +79,31 @@ format:
   pdf:
     documentclass: scrreprt
     pdf-engine: pdflatex
-
-
+    fig-format: pdf
+    include-in-header:
+      - text: |
+          \usepackage{tikz}
+          \AtBeginDocument{
+            % Adding custom title text on the title page
+            \thispagestyle{empty}
+            \begin{center}
+              {\Huge My Custom Title}\\[1cm] % Title in large font
+              {\large Subtitle or additional text}\\[2cm] % Subtitle in smaller font
+            \end{center}
+            
+            % Adding a cover image
+            \thispagestyle{empty}
+            \vspace*{15cm} % Increase this value to move the image lower
+            \begin{tikzpicture}[remember picture,overlay]
+              \node at (current page.center) {
+                \includegraphics[width=0.5\paperwidth,height=0.5\paperheight,keepaspectratio]{cover.png}
+              };
+            \end{tikzpicture}
+            \clearpage
+          }
+          
+          % Change figure numbers to Roman numerals
+          \renewcommand{\thefigure}{\Roman{figure}}
+          
 editor: visual
 
