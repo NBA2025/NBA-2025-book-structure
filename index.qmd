@@ -1,18 +1,14 @@
 # Preface {.unnumbered}
 
-
 ::: {layout-ncol="2"}
-
-::: {.column width="30%"}
-![](images/CEO.jpg){fig-align="left" width="250"}
+::: {.column width="25%"}
+![](images/CEO.jpg){fig-align="left" width="200"}
 :::
 
-::: {.column width="210%"}
-I am proud to present South Africa's National Biodiversity Assessment 2025, a product of high scientific calibre that summarises the state of our biodiversity by drawing on a broad foundation of information compiled by over a hundred authors. This body of knowledge should be used as a basis for policy, planning and decision making regarding the wise use and conservation of our country's biodiversity assets and the management and restoration of ecological infrastructure.
+::: {.column width="40%"}
+I am proud to present South Africa's National Biodiversity Assessment 2025, a product of high scientific calibre that summarises the state of our biodiversity by drawing on a broad foundation of information compiled by over a hundred authors. This body of knowledge should be used as a basis for policy, planning and decision making regarding the wise use and conservation of our country's biodiversity assets and the management and restoration of ecological infrastructure.\
 
-
-
-**Shonisani Munzhedzi**
+**Shonisani Munzhedzi**\
 
 **South African National Biodiversity Institute - Chief Executive Officer**
 :::
